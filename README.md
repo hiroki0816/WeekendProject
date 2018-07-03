@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 今回の目標
 
-Things you may want to cover:
+ - gitを理解すること
+ - 簡単なアプリケーションを作成すること
+ - それを通して次の週末プロジェクトのイメージをつけること
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### 参考資料
+ https://railstutorial.jp/
